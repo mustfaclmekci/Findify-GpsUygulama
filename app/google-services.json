@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1013952761620",
+    "firebase_url": "https://airtagproje-3c87e-default-rtdb.firebaseio.com",
+    "project_id": "airtagproje-3c87e",
+    "storage_bucket": "airtagproje-3c87e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013952761620:android:6e73ad861288d5ce5abc01",
+        "android_client_info": {
+          "package_name": "com.example.gpsuygulama2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMqCq6AIjrzqwLWwbT6-Pq9UZoQK5-FD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

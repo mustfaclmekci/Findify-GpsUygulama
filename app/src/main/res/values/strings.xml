@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Findify</string>
+    <string name="navigation_drawer_open">Menü Aç</string>
+    <string name="navigation_drawer_close">Menü Kapat</string>
+</resources>

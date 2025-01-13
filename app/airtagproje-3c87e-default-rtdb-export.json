@@ -1,0 +1,10 @@
+{
+  "Controls": {
+    "Buzzer": 0,
+    "LED": 0
+  },
+  "GPS": {
+    "Latitude": 40.54328,
+    "Longitude": 41.97702
+  }
+}
